@@ -1,0 +1,158 @@
+a {
+    color: white;
+    padding: 100px 0;
+}
+.outro {
+    padding: 10px 0 30px 0;
+}
+p {
+    line-height: 2;
+}
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family:Montserrat ;
+    color: #ffffff;
+    font-size: 20px;
+    background: #424874;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #a6b1e1;
+    text-decoration: none;
+  }
+body{
+    margin: 0 0 0 0;
+    text-align: center;
+    font-family: verdana, sans-serif;
+    color: #40541E;
+}
+h1 {
+    color: #424874;
+    margin: 50px auto 0 auto;
+    font-family: Sacramento, sans-serif;
+    font-size: 5.625em;
+    line-height: 1;
+}
+h2 {
+    color: #424874;
+    font-family: Montserrat, sans-serif;
+    font-style: italic;
+    font-weight: normal;
+    margin-top: 0;
+    padding-bottom: 10px;
+}
+h3{
+    color: #A6B1E1;
+    font-family: Montserrat;
+    font-size:20px;
+    font-weight: 500;
+}
+href {
+    text-decoration: none;
+}
+.top-container{
+    position: relative;
+    padding-top: 100px;
+    background-color: #DCD6F7;
+}
+.middle-container {
+    position: relative;
+    background-color: #F4EEFF;
+    padding: 100px 0 0 0;
+}
+.bottomcloud{
+    position: absolute;
+    left: 250px;
+    bottom: 250px;
+}
+.topcloud {
+    position: absolute;
+    right: 250px;
+    top: 50px;
+}
+.newcloud{
+    position: absolute;
+    right: 100px;
+    top: 350px;
+}
+.newcloud1{
+    position: absolute;
+    left: 60px;
+    bottom: 50px;
+}
+.skill-row {
+    width: 60%;
+    margin: auto;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    text-align: left;
+}
+.photoshop {
+    float: left;
+    margin-right: 30px;
+}
+.blender {
+    float: right;
+    margin-left: 30px;
+    text-align: left;
+}
+.figma {
+    float: left;
+    margin-right: 30px;
+}
+.hello {
+    font-size: 80px;
+    font-family: Sacramento, sans-serif;
+    line-height: 2;
+    margin: 30px 0;
+}
+.intro {
+    width: 40%;
+    margin: auto;
+    color: #989ab6;
+    font-style: italic;
+    font-size: 19px;
+}
+hr {
+    border-style: dotted none none;
+    border-color: #DCD6F7;
+    height: 1px;
+    width: 4%; border-width: 5px;
+    margin: 100px auto;
+}
+.bottom-container {
+    background-color:#DCD6F7;
+    margin-top: 100px;
+}
+.myskills {
+    font-size: 40px;
+    font-family: Montserrat, sans-serif ;
+    margin: 10px auto;
+}
+.name {
+    margin: 50px 0 0 0;
+    height: 50px;
+    font-size: small;
+}
+.dribble {
+    width: 3.5%;
+    padding: 30px 30px 0 30px;
+}
+.behance {
+    width: 3.5%;
+    padding: 30px 15px 0 15px;
+}
+.linkedin {
+    width: 3.5%;
+    padding: 30px 30px 0 30px;
+}
+#free {
+    font-weight: normal;
+}
+.get {
+    font-weight: 600;
+}
